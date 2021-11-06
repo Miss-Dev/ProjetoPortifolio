@@ -1,0 +1,14 @@
+.foto-perfil {
+  height: 100%;
+  max-width: auto;
+  border-radius: 40%;
+
+  width: 15rem;
+}
+
+.jumbotron {
+  margin-bottom: 0px;
+}
+.corPrimaria {
+  background-color: rgb(216, 191, 216);
+}
